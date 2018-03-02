@@ -1,1 +1,1 @@
-# webpuck
+<script src="main.js"></script>
